@@ -18,6 +18,8 @@ namespace player_rave
     /// <summary>
     /// Логика взаимодействия для HistoryWindow.xaml
     /// </summary>
+    // София Алеексевна не проверяйте этот код, он тут не должен был быть.
+    
     public partial class HistoryWindow : Window
     {
         public event Action<int> PlayTrack;//delegate use
